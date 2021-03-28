@@ -1,7 +1,7 @@
 
 self_ID = "E-2C_Hawkeye"
 
-declare_plugin(Self_ID,
+declare_plugin(self_ID,
 {
 image     	  = "FC3.bmp",
 installed 	  = true, -- if false that will be place holder , or advertising
