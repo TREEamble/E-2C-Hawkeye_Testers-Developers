@@ -1,4 +1,4 @@
-# E-2C+-Hawkeye
+# E-2C-Hawkeye
 
 I'd like to thank you for downloading this mod and taking the time to read the README file.
 The E-2C+ Hawkeye mod is the first modding project I've started and I hope it's of a quality that can be enjoyed by you and your friends.
