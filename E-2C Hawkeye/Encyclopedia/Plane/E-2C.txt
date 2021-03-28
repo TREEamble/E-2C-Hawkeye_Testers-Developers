@@ -1,0 +1,43 @@
+E-2C
+Plane/A-4E-C.png
+E-2C
+
+
+Name: E-2C "Hawkeye"
+Type: AEWACS
+Crew: pilot and Co-pilot, 3 NFOs
+Length: 57'8.75" (17.54 m)
+Wing span: 80'7" (24.56 m)
+Height: 18'3.35" (5.58 m)
+Wing area: 700ft^2 (65.03 m^2)
+Weight Empty: 40,200 lb (18,243 kg)
+Normal weight: 45,194 lb (20,500 kg)
+Maximum weight: 52,580 lb (23,850 kg)
+Max Takeoff Weight: 57,500 lb (11,136 kg)
+Internal Fuel: 12,400 lb (5,624 kg)
+Max speed: 350 kn (650 km/h)
+Service ceiling: 34,700' (11,275 m)
+Maximum range: 1541 nmi (2854 km)
+G limit: 2.5 g
+Engines: Allison/Rolls-Royce T56-a-427
+Thrust Rating (ISA sea level): 5,100 shp
+
+
+Armament: 
+ - None
+
+Avionics:
+ - AN/APS-145 Radar
+ - OL-483/AP IFF Interrogator systems
+ - APX-100 IFF Transponder
+ - OL-698/ASQ Tactical computer group
+ - AN/ARC-182 UHF/VHF Radio
+ - AN/ARC-158 UHF Radio
+ - AN/ARQ-34 HF Radio
+ - AN/USC-42 Mini-DAMA SATCOM system
+
+The E-2 Hawkeye is a 2 seat AEWAC aircraft, produced by Northrop Grumman and originally created by Grumman, that provides greater situation awareness of an area.
+
+In 1956 the U.S. Navy created a requirement for a new AEW aircraft Grumman stepped forward with a design that was selected to meet this requirement.  W2F-1 which later became known as the E-2A was the first carrier based AEWACS that was designed from scratch and proved challenging to do so since the carriers the Navy had at the time were meant for smaller and lighter aircraft such as those in WW2 that were modified for jet aircraft.  Once the design was made into a prototype the E-2A first flew in 1960 on the 21st of october.  Early computers that were larger and closely packed together made the E-2 unreliable and would fail after getting too hot from inadequate cooling.
+
+The E-2C is the first reliable and effective variant of the E-2 which included upgrades to make up where the E-2A and E-2B fell short.  The E-2C's first prototype flight occured on January 20th 1971 to test the E-2C.  After the trials had been successful the E-2C went on to be put into production and the first production variant flew on the 23rd of september 1972 and the E-2C soon became operational the next year in 1973 flying from carriers.   The E-2C was paired with other aircraft such as the F-14 Tomcat to extend their range and make them more effective while reducing friendly fire via datalink provided IFF.  The E-2 also saw use in tracking of drug dealers.
